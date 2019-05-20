@@ -17,6 +17,10 @@ p {
   margin: 0;
 }
 
+ul {
+  margin-top: 0;
+}
+
 header {
 }
 
@@ -74,4 +78,8 @@ h3 {
 
 .indent {
   margin-left: 1em;
+}
+
+.margin1 {
+  margin: 1em;
 }
